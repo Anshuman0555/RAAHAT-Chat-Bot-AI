@@ -1,3 +1,3 @@
 # RAAHAT-Chat-Bot-AI
 
-<u> this will be our mini porject</u>
+<b> this will be our mini project</b>
