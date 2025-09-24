@@ -1,3 +1,3 @@
 # RAAHAT-Chat-Bot-AI
 
-<u> this will bw our mini porject</u>
+<u> this will be our mini porject</u>
